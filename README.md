@@ -18,6 +18,5 @@
 
 <br />
 
-![Github Stats](https://github-readme-stats.vercel.app/api/api?username=marekvks&theme=radical)
-<br />
+<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marekvks&show_icons=true&title_color=ffffff&icon_color=fff&text_color=d200af&bg_color=151515">
 <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=marekvks&show_icons=true&locate=en&layout=compact" />
