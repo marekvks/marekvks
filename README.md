@@ -1,4 +1,4 @@
-###👋 Hi there, I'm Marek
+### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
 ## I'm 15 years old student.
 ## I'm curretly studying at SSPS
@@ -22,4 +22,3 @@
 <br />
 
 ---
-
