@@ -17,5 +17,4 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marekvks&show_icons=true&title_color=ffffff&icon_color=fff&text_color=d200af&bg_color=151515" />
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=marekvks&show_icons=true&locate=en&layout=compact&title_color=ffffff&icon_color=fff&text_color=fff&bg_color=151515&progress_color=d200af" />
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marekvks&show_icons=true&title_color=ffffff&icon_color=fff&text_color=d200af&bg_color=151515" /><img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=marekvks&show_icons=true&locate=en&layout=compact&title_color=ffffff&icon_color=fff&text_color=fff&bg_color=151515&progress_color=d200af" />
