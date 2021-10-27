@@ -23,9 +23,3 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="marekvks's GitHub Stats" src="https://github-readme-stats.marekvks.vercel.app/api?username=marekvks&show_icons=true&hide_border=true" />
-
-</details>
