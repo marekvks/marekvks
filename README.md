@@ -2,8 +2,8 @@
 
 ## I'm 15 years old student studying at SSPS
 
-- 🌱 I’m currently learning Game Dev & Web Dev
-- 🥅 2021 Goals: I would like to learn C#, Javascript and create a small game using Unity Engine.
+- 🌱 I’m currently learning software engineering
+- 🥅 2021 Goals: I would like to learn C# and Javascript to higher level and create a small game using Unity Engine.
 
 <br />
 
