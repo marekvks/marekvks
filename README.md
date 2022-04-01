@@ -2,7 +2,7 @@
 
 ## I'm 16 years old student studying at SSPS
 
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently learning Game Dev
 - 🥅 2022 Goals: I would like to expand my knowledge in programming (C# & C++) to a  higher level and continue learning Unity Engine.
 
 <br />
