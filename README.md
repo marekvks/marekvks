@@ -1,6 +1,6 @@
-### 👋 Hi, I'm Marek
+### 👋 Hey, I'm Marek
 
-## I'm 16 years old student & junior game dev studying at SSPS
+## I'm 16 years old student & junior game dev studying CS at SSPS
 
 - 🌱 I’m currently learning Game Dev
 - 🥅 2022 Goals: I would like to expand my knowledge in programming (C# & C++) to a  higher level and continue learning Unity Engine.
