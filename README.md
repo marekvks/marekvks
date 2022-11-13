@@ -10,9 +10,9 @@ ___
 &nbsp;
 <img width="35px" height="auto" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg'>
 &nbsp;
-<img width="35px" height="auto" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
-&nbsp;
 <img width="35px" height="auto" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
+&nbsp;
+<img width="35px" height="auto" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
 &nbsp;
 <!-- <img width="35px" height="auto" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>
 &nbsp; -->
