@@ -6,6 +6,8 @@ ___
 <div align="center" width="50%">
 <img width="35px" height="auto" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg'>
 &nbsp;
+<img width="35px" height="auto" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
+&nbsp;
 <img width="35px" height="auto" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg'>
 &nbsp;
 <img width="35px" height="auto" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg'>
