@@ -4,5 +4,4 @@
 ___
 
 <div align="center" width="50%">
-  [![My Skills](https://skillicons.dev/icons?i=cs,unity,js,git,r)](https://skillicons.dev)
 </div>
