@@ -2,7 +2,7 @@
 #### < Full Stack Developer />
 #### Managing Indie Expo @ [Game Developers Session Prague](https://gdsession.com/)
 
-##### Languages, Frameworks & tools I use:
+##### Languages, frameworks & tools I use:
 - Html
 - CSS, SCSS, Tailwind
 - JavaScript, TypeScript
