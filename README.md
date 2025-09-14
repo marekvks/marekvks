@@ -1,5 +1,6 @@
 ## marekvks
-#### Full Stack Developer
+#### < Full Stack Developer />
+#### Managing Indie Expo @ [Game Developers Session Prague](https://gdsession.com/)
 
 ##### Languages, Frameworks & tools I use:
 - Html
