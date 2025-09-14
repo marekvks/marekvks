@@ -3,7 +3,7 @@
 #### Managing Indie Expo @ [Game Developers Session Prague](https://gdsession.com/)
 
 ##### Languages, frameworks & tools I use:
-- Html
+- HTML
 - CSS, SCSS, Tailwind
 - JavaScript, TypeScript
   - React, Next.js, Svelte, Hugo
