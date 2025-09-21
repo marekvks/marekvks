@@ -13,4 +13,4 @@
 - MongoDB => Mongoose
 
 ##### Currently working on:
-- [e-praxe](https://epraxe.codeventions.me/)
+- e-praxe
